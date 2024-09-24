@@ -1,0 +1,14 @@
+[
+  {
+    "NIM": "12345678",
+    "Nama": "Budi",
+    "Kelas": "A",
+    "Email": "budi@example.com"
+  },
+  {
+    "NIM": "87654321",
+    "Nama": "Siti",
+    "Kelas": "B",
+    "Email": "siti@example.com"
+  }
+]
